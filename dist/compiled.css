@@ -1,0 +1,29 @@
+.slightly-rounded {
+  width: 300px;
+  height: 100px;
+  background: green;
+  border: 1px solid;
+  color: white;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  background-clip: padding-box;
+}
+.very-rounded {
+  width: 300px;
+  height: 100px;
+  background: blue;
+  border: 1px solid;
+  color: white;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  border-radius: 16px;
+  background-clip: padding-box;
+}
+a {
+  background-color: #FFC;
+}
+blockquote {
+  background-color: #333;
+  color: #FFC;
+}
